@@ -1,0 +1,312 @@
+[
+  {
+    "clazzId": 271,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 266,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 275,
+    "subjectId": "41_12",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 268,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 272,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 265,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 273,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 273,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 246,
+    "subjectId": "42_10",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 240,
+    "subjectId": "42_10",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 252,
+    "subjectId": "51_11",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 253,
+    "subjectId": "51_11",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 277,
+    "subjectId": "51_12",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 263,
+    "subjectId": "39_11",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 258,
+    "subjectId": "39_11",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 264,
+    "subjectId": "39_11",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 274,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 272,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 251,
+    "subjectId": "38_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 251,
+    "subjectId": "41_10",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 249,
+    "subjectId": "41_10",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 270,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 270,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 249,
+    "subjectId": "38_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 268,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 277,
+    "subjectId": "41_12",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 276,
+    "subjectId": "41_12",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 250,
+    "subjectId": "41_10",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 243,
+    "subjectId": "42_10",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 241,
+    "subjectId": "42_10",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 242,
+    "subjectId": "42_10",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 255,
+    "subjectId": "51_11",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 267,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 250,
+    "subjectId": "37_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 251,
+    "subjectId": "37_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 247,
+    "subjectId": "37_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 249,
+    "subjectId": "37_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 262,
+    "subjectId": "39_11",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 260,
+    "subjectId": "39_11",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 261,
+    "subjectId": "39_11",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 257,
+    "subjectId": "51_11",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 259,
+    "subjectId": "51_11",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 254,
+    "subjectId": "51_11",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 275,
+    "subjectId": "51_12",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 266,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 247,
+    "subjectId": "38_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 265,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 239,
+    "subjectId": "42_10",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 276,
+    "subjectId": "51_12",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 244,
+    "subjectId": "42_10",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 245,
+    "subjectId": "42_10",
+    "lessonPerWeek": 1
+  },
+  {
+    "clazzId": 248,
+    "subjectId": "41_10",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 247,
+    "subjectId": "41_10",
+    "lessonPerWeek": 4
+  },
+  {
+    "clazzId": 267,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 269,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 248,
+    "subjectId": "37_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 274,
+    "subjectId": "37_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 269,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 248,
+    "subjectId": "38_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 250,
+    "subjectId": "38_10",
+    "lessonPerWeek": 2
+  },
+  {
+    "clazzId": 271,
+    "subjectId": "38_12",
+    "lessonPerWeek": 3
+  },
+  {
+    "clazzId": 256,
+    "subjectId": "51_11",
+    "lessonPerWeek": 3
+  }
+]

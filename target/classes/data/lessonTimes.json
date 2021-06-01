@@ -1,0 +1,110 @@
+[
+  {
+    "dayOfWeek": 0,
+    "lessonIndex": 2
+  },
+  {
+    "dayOfWeek": 0,
+    "lessonIndex": 3
+  },
+  {
+    "dayOfWeek": 0,
+    "lessonIndex": 4
+  },
+  {
+    "dayOfWeek": 0,
+    "lessonIndex": 5
+  },
+  {
+    "dayOfWeek": 1,
+    "lessonIndex": 1
+  },
+  {
+    "dayOfWeek": 1,
+    "lessonIndex": 2
+  },
+  {
+    "dayOfWeek": 1,
+    "lessonIndex": 3
+  },
+  {
+    "dayOfWeek": 1,
+    "lessonIndex": 4
+  },
+  {
+    "dayOfWeek": 1,
+    "lessonIndex": 5
+  },
+  {
+    "dayOfWeek": 2,
+    "lessonIndex": 1
+  },
+  {
+    "dayOfWeek": 2,
+    "lessonIndex": 2
+  },
+  {
+    "dayOfWeek": 2,
+    "lessonIndex": 3
+  },
+  {
+    "dayOfWeek": 2,
+    "lessonIndex": 4
+  },
+  {
+    "dayOfWeek": 2,
+    "lessonIndex": 5
+  },
+  {
+    "dayOfWeek": 3,
+    "lessonIndex": 1
+  },
+  {
+    "dayOfWeek": 3,
+    "lessonIndex": 2
+  },
+  {
+    "dayOfWeek": 3,
+    "lessonIndex": 3
+  },
+  {
+    "dayOfWeek": 3,
+    "lessonIndex": 4
+  },
+  {
+    "dayOfWeek": 4,
+    "lessonIndex": 1
+  },
+  {
+    "dayOfWeek": 4,
+    "lessonIndex": 2
+  },
+  {
+    "dayOfWeek": 4,
+    "lessonIndex": 3
+  },
+  {
+    "dayOfWeek": 4,
+    "lessonIndex": 4
+  },
+  {
+    "dayOfWeek": 4,
+    "lessonIndex": 5
+  },
+  {
+    "dayOfWeek": 5,
+    "lessonIndex": 1
+  },
+  {
+    "dayOfWeek": 5,
+    "lessonIndex": 2
+  },
+  {
+    "dayOfWeek": 5,
+    "lessonIndex": 3
+  },
+  {
+    "dayOfWeek": 5,
+    "lessonIndex": 4
+  }
+]
