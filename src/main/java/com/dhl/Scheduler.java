@@ -188,10 +188,10 @@ public class Scheduler {
                 if (ls == null) {
                     conflicts++;
                     conflictReasons.add("Subject is not schedule. Clazz: " + clazz.getName() + ". Subject: " + subject.getName());
-//                    conflicts++;
-//                    conflictReasons.add("Subject is not schedule so it's lesson per week won't satisfy the constraint as well. Clazz: " + clazz.getName() + ". Subject: " + subject.getName());
-//                    conflicts += distribution.size(); // if subject is not scheduled, it's distribution won't satisfy the constraint as well
-//                    conflictReasons.add("Subject is not schedule so it's distribution won't satisfy the constraint as well. Clazz: " + clazz.getName() + ". Subject: " + subject.getName());
+                    conflicts++;
+                    conflictReasons.add("Subject is not schedule so it's lesson per week won't satisfy the constraint as well. Clazz: " + clazz.getName() + ". Subject: " + subject.getName());
+                    conflicts += distribution.size(); // if subject is not scheduled, it's distribution won't satisfy the constraint as well
+                    conflictReasons.add("Subject is not schedule so it's distribution won't satisfy the constraint as well. Clazz: " + clazz.getName() + ". Subject: " + subject.getName());
                     continue;
                 }
                 if (!subject.getGrade().equals(clazz.getGrade())) { // FIXME: some subjects can be applied for all grades

@@ -21,43 +21,43 @@
     "id": "37_10",
     "name": "Vật lí",
     "grade": 10,
-    "lessonPerWeek": 3
+    "lessonPerWeek": 2
   },
   {
     "id": "37_11",
     "name": "Vật lí",
     "grade": 11,
-    "lessonPerWeek": 2
+    "lessonPerWeek": 3
   },
   {
     "id": "37_12",
     "name": "Vật lí",
     "grade": 12,
-    "lessonPerWeek": 2
+    "lessonPerWeek": 3
   },
   {
     "id": "38_10",
     "name": "Hóa học",
     "grade": 10,
-    "lessonPerWeek": 3
+    "lessonPerWeek": 2
   },
   {
     "id": "38_11",
     "name": "Hóa học",
     "grade": 11,
-    "lessonPerWeek": 2
+    "lessonPerWeek": 3
   },
   {
     "id": "38_12",
     "name": "Hóa học",
     "grade": 12,
-    "lessonPerWeek": 2
+    "lessonPerWeek": 3
   },
   {
     "id": "39_10",
     "name": "Sinh học",
     "grade": 10,
-    "lessonPerWeek": 1
+    "lessonPerWeek": 2
   },
   {
     "id": "39_11",
@@ -81,13 +81,13 @@
     "id": "40_11",
     "name": "Tin học",
     "grade": 11,
-    "lessonPerWeek": 2
+    "lessonPerWeek": 1
   },
   {
     "id": "40_12",
     "name": "Tin học",
     "grade": 12,
-    "lessonPerWeek": 1
+    "lessonPerWeek": 2
   },
   {
     "id": "41_10",
@@ -99,37 +99,19 @@
     "id": "41_11",
     "name": "Ngữ Văn",
     "grade": 11,
-    "lessonPerWeek": 4
+    "lessonPerWeek": 3
   },
   {
     "id": "41_12",
     "name": "Ngữ Văn",
     "grade": 12,
-    "lessonPerWeek": 3
-  },
-  {
-    "id": "42_10",
-    "name": "Lịch sử",
-    "grade": 10,
-    "lessonPerWeek": 2
-  },
-  {
-    "id": "42_11",
-    "name": "Lịch sử",
-    "grade": 11,
-    "lessonPerWeek": 1
-  },
-  {
-    "id": "42_12",
-    "name": "Lịch sử",
-    "grade": 12,
-    "lessonPerWeek": 2
+    "lessonPerWeek": 4
   },
   {
     "id": "43_10",
     "name": "Địa lí",
     "grade": 10,
-    "lessonPerWeek": 1
+    "lessonPerWeek": 2
   },
   {
     "id": "43_11",
@@ -140,24 +122,6 @@
   {
     "id": "43_12",
     "name": "Địa lí",
-    "grade": 12,
-    "lessonPerWeek": 2
-  },
-  {
-    "id": "44_10",
-    "name": "Công nghệ",
-    "grade": 10,
-    "lessonPerWeek": 2
-  },
-  {
-    "id": "44_11",
-    "name": "Công nghệ",
-    "grade": 11,
-    "lessonPerWeek": 1
-  },
-  {
-    "id": "44_12",
-    "name": "Công nghệ",
     "grade": 12,
     "lessonPerWeek": 1
   },
@@ -180,6 +144,24 @@
     "lessonPerWeek": 2
   },
   {
+    "id": "50_10",
+    "name": "Công nghệ",
+    "grade": 10,
+    "lessonPerWeek": 1
+  },
+  {
+    "id": "50_11",
+    "name": "Công nghệ",
+    "grade": 11,
+    "lessonPerWeek": 2
+  },
+  {
+    "id": "50_12",
+    "name": "Công nghệ",
+    "grade": 12,
+    "lessonPerWeek": 1
+  },
+  {
     "id": "51_10",
     "name": "Ngoại ngữ",
     "grade": 10,
@@ -189,13 +171,31 @@
     "id": "51_11",
     "name": "Ngoại ngữ",
     "grade": 11,
-    "lessonPerWeek": 4
+    "lessonPerWeek": 3
   },
   {
     "id": "51_12",
     "name": "Ngoại ngữ",
     "grade": 12,
     "lessonPerWeek": 3
+  },
+  {
+    "id": "52_10",
+    "name": "lịch sử",
+    "grade": 10,
+    "lessonPerWeek": 2
+  },
+  {
+    "id": "52_11",
+    "name": "lịch sử",
+    "grade": 11,
+    "lessonPerWeek": 2
+  },
+  {
+    "id": "52_12",
+    "name": "lịch sử",
+    "grade": 12,
+    "lessonPerWeek": 1
   },
   {
     "id": "53_10",
@@ -212,6 +212,42 @@
   {
     "id": "53_12",
     "name": "GDCD",
+    "grade": 12,
+    "lessonPerWeek": 1
+  },
+  {
+    "id": "74873_10",
+    "name": "Chào cờ",
+    "grade": 10,
+    "lessonPerWeek": 1
+  },
+  {
+    "id": "74873_11",
+    "name": "Chào cờ",
+    "grade": 11,
+    "lessonPerWeek": 1
+  },
+  {
+    "id": "74873_12",
+    "name": "Chào cờ",
+    "grade": 12,
+    "lessonPerWeek": 1
+  },
+  {
+    "id": "74877_10",
+    "name": "SHL",
+    "grade": 10,
+    "lessonPerWeek": 1
+  },
+  {
+    "id": "74877_11",
+    "name": "SHL",
+    "grade": 11,
+    "lessonPerWeek": 1
+  },
+  {
+    "id": "74877_12",
+    "name": "SHL",
     "grade": 12,
     "lessonPerWeek": 1
   }
