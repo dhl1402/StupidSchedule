@@ -212,6 +212,8 @@ public class Scheduler {
                         } else if (subsequentLessonCount > 1) {
                             distribution.remove(Integer.valueOf(subsequentLessonCount));
                             subsequentLessonCount = 1;
+                        } else {
+                            distribution.remove(Integer.valueOf(subsequentLessonCount));
                         }
                     }
                 }
